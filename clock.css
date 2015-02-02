@@ -1,6 +1,4 @@
-/*basic reset*/
 * {margin: 0; padding: 0;}
-/*make the body occupy full height*/
 html, body {height: 100%;}
 
 a {
